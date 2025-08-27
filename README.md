@@ -13,6 +13,7 @@
   <p>- Concursos Públicos na área de TI</p>
   <h3>📫 Como me encontrar:</h3>
   <p>- Email: dreyfus.dl@gmail.com</p>
+  <p>- IG: @dlDreyfus</p>
 </div>
 
 ---
