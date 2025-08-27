@@ -1,17 +1,33 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>Olá! Meu nome é Dreyfus 👋</h1>
+  <p>Um eterno aluno e entusiasta de tecnologia apaixonado por criar soluções inovadoras bem como estudar e ensinar para concursos públicos.</p>
+</div>
 
-<!--
-**dlDreyfus/dlDreyfus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <h3>🔭 Atualmente trabalhando na:</h3>
+  <p>- Receita Federal do Brasil, no cargo de Analista Tributário</p>
+  <h3>🌱 Aprendendo sobre:</h3>
+  <p>- JavaScript, Python e SQL</p>
+  <h3>💬 Fale comigo sobre:</h3>
+  <p>- Concursos Públicos na área de TI</p>
+  <h3>📫 Como me encontrar:</h3>
+  <p>- Email: dreyfus.dl@gmail.com</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665
+
+### 🌐 Conecte-se Comigo
+
+  <a href="mailto:dreyfus.dl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@dlDreyfus">@dlDreyfus
+  </a>
+</p>
+
+
+
