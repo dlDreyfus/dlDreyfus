@@ -8,7 +8,9 @@
   <h3>🔭 Atualmente trabalhando na:</h3>
   <p>- Receita Federal do Brasil, no cargo de Analista Tributário</p>
   <h3>🌱 Aprendendo sobre:</h3>
-  <p>- JavaScript, Python e SQL</p>
+  <p>- JavaScript, Python, SQL e demnais tecnologias de desenvolvimento WEB.</p>
+    <h3>🌱 LOADING...</h3>
+  <p></p>
   <h3>💬 Fale comigo sobre:</h3>
   <p>- Concursos Públicos na área de TI</p>
   <h3>📫 Como me encontrar:</h3>
