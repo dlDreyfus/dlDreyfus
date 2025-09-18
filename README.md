@@ -10,7 +10,7 @@
   <h3>🌱 Aprendendo sobre:</h3>
   <p>- JavaScript, Python, SQL e demnais tecnologias de desenvolvimento WEB.</p>
     <h3>🌱 LOADING...</h3>
-  <p></p>
+  <p><img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KSw9AOsWkxtOGk6eNDBwIIDL8p9zO9eQHpbwRGxEAhij2kKJDo8Pz0ihj4W0l-IgQy65ySMkUQfLhSc6njECPnTlKkDhJm8GE1ILiA_lpkvPomSlAHooketmqGbkG3Vf0hhom0_X1ZetFmPNCNMP4n0nwkH_8wZbWhDTug1Dcbb-X0d=s1024"></p>
   <h3>💬 Fale comigo sobre:</h3>
   <p>- Concursos Públicos na área de TI</p>
   <h3>📫 Como me encontrar:</h3>
