@@ -12,6 +12,7 @@
     <h3>🌱 LOADING...</h3>
   <p><img src="https://github.com/dlDreyfus/imagens/blob/master/HTML_Gemini_Generated.gif?raw=true" width="80">
   <img src="https://github.com/dlDreyfus/imagens/blob/master/CSS_Gemini_Generated.png?raw=true" width="80">
+  <img src="https://github.com/dlDreyfus/imagens/blob/master/PHP_Gemini_Generated.gif?raw=true" width="80">
   <img src="https://github.com/dlDreyfus/imagens/blob/master/JAVASCRIPT_Gemini_Generated.png?raw=true" width="80">
   <img src="https://github.com/dlDreyfus/imagens/blob/master/SQL_Gemini_Generated.png?raw=true" width="80">
   <img src="https://github.com/dlDreyfus/imagens/blob/master/PYTHON_Gemini_Generated.png?raw=true" width="80"></p>
