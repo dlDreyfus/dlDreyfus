@@ -39,6 +39,6 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="150" style="border-radius: 50%;"/>
  
 </div>
