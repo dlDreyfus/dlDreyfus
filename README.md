@@ -11,7 +11,7 @@
   <p>- JavaScript, Python, SQL e demnais tecnologias de desenvolvimento WEB.</p>
     <h3>🌱 LOADING...</h3>
   <p><img src="https://github.com/dlDreyfus/imagens/blob/master/HTML_Gemini_Generated.gif?raw=true" width="80" style = "border-radius: 50 px;">
-  <img src="https://github.com/dlDreyfus/imagens/blob/master/CSS_Gemini_Generated.png" width="80" style = "border-radius: 50 px;">
+  <img src="https://github.com/dlDreyfus/imagens/blob/master/CSS_Gemini_Generated.png?raw=true" width="80" style = "border-radius: 50 px;">
   <img src="https://github.com/dlDreyfus/imagens/blob/master/JAVASCRIPT_Gemini_Generated.png" width="80">
   <img src="https://github.com/dlDreyfus/imagens/blob/master/SQL_Gemini_Generated.png" width="80">
   <img src="https://github.com/dlDreyfus/imagens/blob/master/PYTHON_Gemini_Generated.png" width="80"></p>
