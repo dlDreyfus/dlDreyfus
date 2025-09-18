@@ -10,7 +10,7 @@
   <h3>🌱 Aprendendo sobre:</h3>
   <p>- JavaScript, Python, SQL e demnais tecnologias de desenvolvimento WEB.</p>
     <h3>🌱 LOADING...</h3>
-  <p><img src="https://github.com/dlDreyfus/imagens/blob/master/CSS_Gemini_Generated.png"></p>
+  <p><img src="https://github.com/dlDreyfus/imagens/blob/master/CSS_Gemini_Generated.png" width="100"></p>
   <h3>💬 Fale comigo sobre:</h3>
   <p>- Concursos Públicos na área de TI</p>
   <h3>📫 Como me encontrar:</h3>
